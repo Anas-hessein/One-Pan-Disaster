@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 247, 238);
+    font-weight: bolder;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Chewy;
+    color:#8a1818;
+    text-shadow: 2px 2px aliceblue ;
+    cursor: pointer;
+}
+.nav {
+    background-color: brown;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
+h6{
+    font-size: medium;
+} 
+
+button {
+    margin-top: 12px;
+    border: none;
+    background-color: transparent;
+    font-family: Chewy;
+    font-size: larger;
+
+}
+
+footer {
+    font-family: Chewy;
+    margin-top: 20px;
+}
+
+.recipe {
+    font-weight: bolder;
+    background-color: rgb(236, 185, 185);
+    width: 450px;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+    margin-left: 28.303vw;
+    margin-top:20px;
+    padding-top: none;
+    padding-bottom: 35px;
+    border-radius: 15px;
+    border: solid 2px rgb(110, 36, 36); 
+
+}
+
+.gen {
+    background-color: rgb(236, 185, 185);
+    border-radius: 15px;
+    border: solid 2px rgb(110, 36, 36); 
+    padding: 3px 10px;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+} 
+
+.hack {
+    color:rgb(163, 49, 49)
+}
+
+.me {
+    font-family: Chewy;
+    padding: 0 63px;
+    color:#8a1818;
+    text-shadow: 2px 2px aliceblue ;
+}
+
+.mee {
+    height: 50%;
+    width: 40%;
+    border-radius: 40px;
+    border: solid 3px rgb(110, 36, 36);
+    cursor: pointer;
+    
+}
+
+.hi {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color:#8a1818;
+    text-shadow: 2px 2px aliceblue;
+    font-family: Chewy;
+    border-radius: 15px;
+    border: solid 2px rgb(110, 36, 36);
+    background-color: rgb(236, 185, 185);
+    margin: 0px;
+    padding: 4px 10px;
+
+
+}
